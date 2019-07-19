@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaiyaEndGame", "ShaiyaEndGame\ShaiyaEndGame.csproj", "{10813725-F590-4DB5-9FAA-115665890A1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaiya.Infrastructure", "Shaiya.Infrastructure\Shaiya.Infrastructure.csproj", "{FB46FBA9-209C-4793-9999-555DD3F39E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaiya.Core", "Shaiya.Core\Shaiya.Core.csproj", "{F74D4F0F-4449-467A-8C3F-55362A7F92E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaiya.Microservices", "Shaiya.Microservices\Shaiya.Microservices.csproj", "{8AA260D7-BB17-4690-BB5C-D2C89E500D5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{10813725-F590-4DB5-9FAA-115665890A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10813725-F590-4DB5-9FAA-115665890A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10813725-F590-4DB5-9FAA-115665890A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB46FBA9-209C-4793-9999-555DD3F39E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB46FBA9-209C-4793-9999-555DD3F39E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB46FBA9-209C-4793-9999-555DD3F39E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB46FBA9-209C-4793-9999-555DD3F39E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74D4F0F-4449-467A-8C3F-55362A7F92E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74D4F0F-4449-467A-8C3F-55362A7F92E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74D4F0F-4449-467A-8C3F-55362A7F92E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74D4F0F-4449-467A-8C3F-55362A7F92E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA260D7-BB17-4690-BB5C-D2C89E500D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA260D7-BB17-4690-BB5C-D2C89E500D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA260D7-BB17-4690-BB5C-D2C89E500D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA260D7-BB17-4690-BB5C-D2C89E500D5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
