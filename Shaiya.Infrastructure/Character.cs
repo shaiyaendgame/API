@@ -3,7 +3,7 @@
 namespace Shaiya.Infrastructure
 {
     //will contain all db models and connections
-    public class Class1
+    public class Character : BaseCharacter
     {
     }
 }
